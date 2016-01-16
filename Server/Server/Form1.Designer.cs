@@ -33,12 +33,12 @@
             this.txtStart = new System.Windows.Forms.Button();
             this.txtLog = new System.Windows.Forms.TextBox();
             this.txtMsg = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txtPath = new System.Windows.Forms.TextBox();
             this.btnSend = new System.Windows.Forms.Button();
             this.cboUsers = new System.Windows.Forms.ComboBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
+            this.btnZD = new System.Windows.Forms.Button();
+            this.btnSelect = new System.Windows.Forms.Button();
+            this.btnSendFile = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txtServer
@@ -83,12 +83,12 @@
             this.txtMsg.Size = new System.Drawing.Size(455, 101);
             this.txtMsg.TabIndex = 4;
             // 
-            // textBox1
+            // txtPath
             // 
-            this.textBox1.Location = new System.Drawing.Point(21, 330);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(296, 21);
-            this.textBox1.TabIndex = 5;
+            this.txtPath.Location = new System.Drawing.Point(21, 330);
+            this.txtPath.Name = "txtPath";
+            this.txtPath.Size = new System.Drawing.Size(296, 21);
+            this.txtPath.TabIndex = 5;
             // 
             // btnSend
             // 
@@ -110,51 +110,54 @@
             this.cboUsers.Size = new System.Drawing.Size(121, 20);
             this.cboUsers.TabIndex = 8;
             // 
-            // button1
+            // btnZD
             // 
-            this.button1.Location = new System.Drawing.Point(400, 376);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 9;
-            this.button1.Text = "震动";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnZD.Location = new System.Drawing.Point(400, 376);
+            this.btnZD.Name = "btnZD";
+            this.btnZD.Size = new System.Drawing.Size(75, 23);
+            this.btnZD.TabIndex = 9;
+            this.btnZD.Text = "震动";
+            this.btnZD.UseVisualStyleBackColor = true;
+            this.btnZD.Click += new System.EventHandler(this.btnZD_Click);
             // 
-            // button2
+            // btnSelect
             // 
-            this.button2.Location = new System.Drawing.Point(336, 328);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(45, 23);
-            this.button2.TabIndex = 10;
-            this.button2.Text = "选择";
-            this.button2.UseVisualStyleBackColor = true;
+            this.btnSelect.Location = new System.Drawing.Point(336, 328);
+            this.btnSelect.Name = "btnSelect";
+            this.btnSelect.Size = new System.Drawing.Size(45, 23);
+            this.btnSelect.TabIndex = 10;
+            this.btnSelect.Text = "选择";
+            this.btnSelect.UseVisualStyleBackColor = true;
+            this.btnSelect.Click += new System.EventHandler(this.btnSelect_Click);
             // 
-            // button3
+            // btnSendFile
             // 
-            this.button3.Location = new System.Drawing.Point(400, 328);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(75, 23);
-            this.button3.TabIndex = 11;
-            this.button3.Text = "发送文件";
-            this.button3.UseVisualStyleBackColor = true;
+            this.btnSendFile.Location = new System.Drawing.Point(400, 328);
+            this.btnSendFile.Name = "btnSendFile";
+            this.btnSendFile.Size = new System.Drawing.Size(75, 23);
+            this.btnSendFile.TabIndex = 11;
+            this.btnSendFile.Text = "发送文件";
+            this.btnSendFile.UseVisualStyleBackColor = true;
+            this.btnSendFile.Click += new System.EventHandler(this.btnSendFile_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(487, 411);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnSendFile);
+            this.Controls.Add(this.btnSelect);
+            this.Controls.Add(this.btnZD);
             this.Controls.Add(this.cboUsers);
             this.Controls.Add(this.btnSend);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtPath);
             this.Controls.Add(this.txtMsg);
             this.Controls.Add(this.txtLog);
             this.Controls.Add(this.txtStart);
             this.Controls.Add(this.txtPort);
             this.Controls.Add(this.txtServer);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "服务器";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -168,12 +171,12 @@
         private System.Windows.Forms.Button txtStart;
         private System.Windows.Forms.TextBox txtLog;
         private System.Windows.Forms.TextBox txtMsg;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txtPath;
         private System.Windows.Forms.Button btnSend;
         private System.Windows.Forms.ComboBox cboUsers;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button btnZD;
+        private System.Windows.Forms.Button btnSelect;
+        private System.Windows.Forms.Button btnSendFile;
     }
 }
 

@@ -9,6 +9,7 @@ using System.Windows.Forms;
 using System.Net.Sockets;
 using System.Net;
 using System.Threading;
+using System.IO;
 
 namespace Server
 {
@@ -67,7 +68,6 @@ namespace Server
                     int r = socketSend.Receive(buffer);
                     if (r == 0)
                     {
-                        ShowMsg(socketSend.RemoteEndPoint + ":滚蛋了");
                         break;
                     }
                     string str = Encoding.UTF8.GetString(buffer, 0, r);
@@ -95,9 +95,51 @@ namespace Server
             List<byte> list = new List<byte>();
             list.Add(0);
             list.AddRange(buffer);
-            byte[] newBuffer = list.ToArray();
+            //此处可能有错
+            buffer = list.ToArray();
+            if (cboUsers.SelectedItem == null)
+            {
+                MessageBox.Show("请选择您要发送的对象");
+                return;
+            }
             string ip = cboUsers.SelectedItem.ToString();
             dicSocket[ip].Send(buffer);
+        }
+
+        private void btnSelect_Click(object sender, EventArgs e)
+        {
+            OpenFileDialog ofd = new OpenFileDialog();
+            ofd.Title = "请选择要发送的文件";
+            ofd.Filter = "所有文件|*.*";
+            ofd.ShowDialog();
+            txtPath.Text = ofd.FileName;
+        }
+
+        private void btnSendFile_Click(object sender, EventArgs e)
+        {
+            string path = txtPath.Text;
+            if (path == "" | path == null)
+            {
+                MessageBox.Show("请选择要发送的文件");
+                return;
+            }
+            using (FileStream fsRead = new FileStream(path, FileMode.Open, FileAccess.Read))
+            {
+                byte[] buffer = new byte[1024 * 1024 * 5];
+                List<byte> list = new List<byte>();
+                int r = fsRead.Read(buffer, 0, buffer.Length);
+                list.Add(1);
+                list.AddRange(buffer);
+                buffer = list.ToArray();
+                dicSocket[cboUsers.SelectedItem.ToString()].Send(buffer, 0, r + 1, SocketFlags.None);
+            }
+        }
+
+        private void btnZD_Click(object sender, EventArgs e)
+        {
+            byte[] buffer = new byte[1];
+            buffer[0] = 2;
+            dicSocket[cboUsers.SelectedItem.ToString()].Send(buffer);
         }
     }
 }
