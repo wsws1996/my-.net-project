@@ -21,7 +21,7 @@ namespace 线程执行带参数的方法1
         private void button1_Click(object sender, EventArgs e)
         {
             Thread th = new Thread(Test);
-            th.IsBackground = true;
+            th.IsBackground = true; 
             th.Start("123");
         }
         private void Test(Object s)
