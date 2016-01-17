@@ -20,13 +20,47 @@ namespace 练习1_3
             //    }
             //    Console.WriteLine();
             //}
-            int[] nums = new int[50];
-            Random r = new Random();
-            for (int i = 0; i < nums.Length; i++)
-            {
-                int rNumber = r.Next(0, 10);
-                nums[i] = rNumber;
-            }
+            //int[] nums = new int[50];
+            //Random r = new Random();
+            //for (int i = 0; i < nums.Length; i++)
+            //{
+            //    int rNumber = r.Next(0, 10);
+            //    nums[i] = rNumber;
+            //}
+            //Console.WriteLine("请输入一个数字");
+            //int n = Convert.ToInt32(Console.ReadLine());
+            //for (int i = 0; i < nums.Length; i++)
+            //{
+            //    Console.Write(nums[i] + "\t");
+            //    if ((i + 1) % n == 0)
+            //    {
+            //        Console.WriteLine();
+            //    }
+            //}
+            //Console.WriteLine();
+            //string s = "AAAAAAABC";
+            //Console.WriteLine(ProcessStr(s));
+            int n1 = 10;
+            int n2 = 20;
+            //n1 = n1 - n2;
+            //n2 = n1 + n2;
+            //n1 = n2 - n1;
+            Change(ref n1, ref n2);
+            Console.WriteLine(n1);
+            Console.WriteLine(n2);
+        }
+
+        public static void Change(ref int n1,ref int n2)
+        {
+            int temp = n1;
+            n1 = n2;
+            n2 = temp;
+        }
+
+        public static string ProcessStr(string str)
+        {
+            string s = str.Substring(0, 1).ToLower();
+            return s + str.Substring(1);
         }
         public static string GetLevel(int score)
         {
