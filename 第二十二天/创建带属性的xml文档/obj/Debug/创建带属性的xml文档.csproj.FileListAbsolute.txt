@@ -1,0 +1,5 @@
+E:\myproject\my-.net-project\第二十二天\创建带属性的xml文档\bin\Debug\创建带属性的xml文档.exe.config
+E:\myproject\my-.net-project\第二十二天\创建带属性的xml文档\bin\Debug\创建带属性的xml文档.exe
+E:\myproject\my-.net-project\第二十二天\创建带属性的xml文档\bin\Debug\创建带属性的xml文档.pdb
+E:\myproject\my-.net-project\第二十二天\创建带属性的xml文档\obj\Debug\创建带属性的xml文档.exe
+E:\myproject\my-.net-project\第二十二天\创建带属性的xml文档\obj\Debug\创建带属性的xml文档.pdb

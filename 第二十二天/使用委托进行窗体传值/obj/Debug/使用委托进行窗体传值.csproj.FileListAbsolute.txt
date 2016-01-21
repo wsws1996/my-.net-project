@@ -1,0 +1,10 @@
+E:\myproject\my-.net-project\第二十二天\使用委托进行窗体传值\bin\Debug\使用委托进行窗体传值.exe.config
+E:\myproject\my-.net-project\第二十二天\使用委托进行窗体传值\bin\Debug\使用委托进行窗体传值.exe
+E:\myproject\my-.net-project\第二十二天\使用委托进行窗体传值\bin\Debug\使用委托进行窗体传值.pdb
+E:\myproject\my-.net-project\第二十二天\使用委托进行窗体传值\obj\Debug\使用委托进行窗体传值.csprojResolveAssemblyReference.cache
+E:\myproject\my-.net-project\第二十二天\使用委托进行窗体传值\obj\Debug\使用委托进行窗体传值.Form1.resources
+E:\myproject\my-.net-project\第二十二天\使用委托进行窗体传值\obj\Debug\使用委托进行窗体传值.Form2.resources
+E:\myproject\my-.net-project\第二十二天\使用委托进行窗体传值\obj\Debug\使用委托进行窗体传值.Properties.Resources.resources
+E:\myproject\my-.net-project\第二十二天\使用委托进行窗体传值\obj\Debug\使用委托进行窗体传值.csproj.GenerateResource.Cache
+E:\myproject\my-.net-project\第二十二天\使用委托进行窗体传值\obj\Debug\使用委托进行窗体传值.exe
+E:\myproject\my-.net-project\第二十二天\使用委托进行窗体传值\obj\Debug\使用委托进行窗体传值.pdb

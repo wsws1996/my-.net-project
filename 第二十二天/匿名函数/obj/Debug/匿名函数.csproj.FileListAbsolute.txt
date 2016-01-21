@@ -1,0 +1,5 @@
+E:\myproject\my-.net-project\第二十二天\匿名函数\bin\Debug\匿名函数.exe.config
+E:\myproject\my-.net-project\第二十二天\匿名函数\bin\Debug\匿名函数.exe
+E:\myproject\my-.net-project\第二十二天\匿名函数\bin\Debug\匿名函数.pdb
+E:\myproject\my-.net-project\第二十二天\匿名函数\obj\Debug\匿名函数.exe
+E:\myproject\my-.net-project\第二十二天\匿名函数\obj\Debug\匿名函数.pdb

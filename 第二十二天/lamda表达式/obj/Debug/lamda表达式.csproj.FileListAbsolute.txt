@@ -1,0 +1,5 @@
+E:\myproject\my-.net-project\第二十二天\lamda表达式\bin\Debug\lamda表达式.exe.config
+E:\myproject\my-.net-project\第二十二天\lamda表达式\bin\Debug\lamda表达式.exe
+E:\myproject\my-.net-project\第二十二天\lamda表达式\bin\Debug\lamda表达式.pdb
+E:\myproject\my-.net-project\第二十二天\lamda表达式\obj\Debug\lamda表达式.exe
+E:\myproject\my-.net-project\第二十二天\lamda表达式\obj\Debug\lamda表达式.pdb

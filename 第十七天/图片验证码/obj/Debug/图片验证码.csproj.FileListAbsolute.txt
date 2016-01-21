@@ -1,0 +1,9 @@
+E:\myproject\my-.net-project\第十七天\图片验证码\bin\Debug\图片验证码.exe.config
+E:\myproject\my-.net-project\第十七天\图片验证码\obj\Debug\图片验证码.csprojResolveAssemblyReference.cache
+E:\myproject\my-.net-project\第十七天\图片验证码\obj\Debug\图片验证码.Form1.resources
+E:\myproject\my-.net-project\第十七天\图片验证码\obj\Debug\图片验证码.Properties.Resources.resources
+E:\myproject\my-.net-project\第十七天\图片验证码\obj\Debug\图片验证码.csproj.GenerateResource.Cache
+E:\myproject\my-.net-project\第十七天\图片验证码\bin\Debug\图片验证码.exe
+E:\myproject\my-.net-project\第十七天\图片验证码\bin\Debug\图片验证码.pdb
+E:\myproject\my-.net-project\第十七天\图片验证码\obj\Debug\图片验证码.exe
+E:\myproject\my-.net-project\第十七天\图片验证码\obj\Debug\图片验证码.pdb

@@ -1,0 +1,6 @@
+E:\myproject\my-.net-project\第二十二天\读取xml\bin\Debug\读取xml.exe.config
+E:\myproject\my-.net-project\第二十二天\读取xml\bin\Debug\读取xml.exe
+E:\myproject\my-.net-project\第二十二天\读取xml\bin\Debug\读取xml.pdb
+E:\myproject\my-.net-project\第二十二天\读取xml\obj\Debug\读取xml.exe
+E:\myproject\my-.net-project\第二十二天\读取xml\obj\Debug\读取xml.pdb
+E:\myproject\my-.net-project\第二十二天\读取xml\obj\Debug\读取xml.csprojResolveAssemblyReference.cache

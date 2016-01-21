@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Order>
+  <CustomerName>
+    <p>aaa</p>
+  </CustomerName>
+  <CustomerNumber>100001</CustomerNumber>
+  <Items>
+  </Items>
+</Order>

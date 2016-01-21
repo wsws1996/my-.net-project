@@ -1,0 +1,6 @@
+E:\myproject\my-.net-project\第二十二天\追加xml\bin\Release\追加xml.exe.config
+E:\myproject\my-.net-project\第二十二天\追加xml\bin\Release\追加xml.exe
+E:\myproject\my-.net-project\第二十二天\追加xml\bin\Release\追加xml.pdb
+E:\myproject\my-.net-project\第二十二天\追加xml\obj\Release\追加xml.csprojResolveAssemblyReference.cache
+E:\myproject\my-.net-project\第二十二天\追加xml\obj\Release\追加xml.exe
+E:\myproject\my-.net-project\第二十二天\追加xml\obj\Release\追加xml.pdb

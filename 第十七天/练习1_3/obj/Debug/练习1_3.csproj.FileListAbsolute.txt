@@ -1,0 +1,6 @@
+E:\myproject\my-.net-project\第十七天\练习1_3\bin\Debug\练习1_3.exe.config
+E:\myproject\my-.net-project\第十七天\练习1_3\bin\Debug\练习1_3.exe
+E:\myproject\my-.net-project\第十七天\练习1_3\bin\Debug\练习1_3.pdb
+E:\myproject\my-.net-project\第十七天\练习1_3\obj\Debug\练习1_3.csprojResolveAssemblyReference.cache
+E:\myproject\my-.net-project\第十七天\练习1_3\obj\Debug\练习1_3.exe
+E:\myproject\my-.net-project\第十七天\练习1_3\obj\Debug\练习1_3.pdb

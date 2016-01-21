@@ -1,0 +1,6 @@
+E:\myproject\my-.net-project\第二十二天\为什么要使用委托\bin\Release\为什么要使用委托.exe.config
+E:\myproject\my-.net-project\第二十二天\为什么要使用委托\bin\Release\为什么要使用委托.exe
+E:\myproject\my-.net-project\第二十二天\为什么要使用委托\bin\Release\为什么要使用委托.pdb
+E:\myproject\my-.net-project\第二十二天\为什么要使用委托\obj\Release\为什么要使用委托.csprojResolveAssemblyReference.cache
+E:\myproject\my-.net-project\第二十二天\为什么要使用委托\obj\Release\为什么要使用委托.exe
+E:\myproject\my-.net-project\第二十二天\为什么要使用委托\obj\Release\为什么要使用委托.pdb

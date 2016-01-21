@@ -1,0 +1,9 @@
+E:\myproject\my-.net-project\第十七天\使用gdi绘制简单的图形\bin\Debug\使用gdi绘制简单的图形.exe.config
+E:\myproject\my-.net-project\第十七天\使用gdi绘制简单的图形\bin\Debug\使用gdi绘制简单的图形.exe
+E:\myproject\my-.net-project\第十七天\使用gdi绘制简单的图形\bin\Debug\使用gdi绘制简单的图形.pdb
+E:\myproject\my-.net-project\第十七天\使用gdi绘制简单的图形\obj\Debug\使用gdi绘制简单的图形.csprojResolveAssemblyReference.cache
+E:\myproject\my-.net-project\第十七天\使用gdi绘制简单的图形\obj\Debug\使用gdi绘制简单的图形.Form1.resources
+E:\myproject\my-.net-project\第十七天\使用gdi绘制简单的图形\obj\Debug\使用gdi绘制简单的图形.Properties.Resources.resources
+E:\myproject\my-.net-project\第十七天\使用gdi绘制简单的图形\obj\Debug\使用gdi绘制简单的图形.csproj.GenerateResource.Cache
+E:\myproject\my-.net-project\第十七天\使用gdi绘制简单的图形\obj\Debug\使用gdi绘制简单的图形.exe
+E:\myproject\my-.net-project\第十七天\使用gdi绘制简单的图形\obj\Debug\使用gdi绘制简单的图形.pdb

@@ -95,7 +95,6 @@ namespace Server
             List<byte> list = new List<byte>();
             list.Add(0);
             list.AddRange(buffer);
-            //此处可能有错
             buffer = list.ToArray();
             if (cboUsers.SelectedItem == null)
             {

@@ -1,0 +1,6 @@
+E:\myproject\my-.net-project\第二十二天\求任意数组的最大值\bin\Debug\求任意数组的最大值.exe.config
+E:\myproject\my-.net-project\第二十二天\求任意数组的最大值\bin\Debug\求任意数组的最大值.exe
+E:\myproject\my-.net-project\第二十二天\求任意数组的最大值\bin\Debug\求任意数组的最大值.pdb
+E:\myproject\my-.net-project\第二十二天\求任意数组的最大值\obj\Debug\求任意数组的最大值.csprojResolveAssemblyReference.cache
+E:\myproject\my-.net-project\第二十二天\求任意数组的最大值\obj\Debug\求任意数组的最大值.exe
+E:\myproject\my-.net-project\第二十二天\求任意数组的最大值\obj\Debug\求任意数组的最大值.pdb

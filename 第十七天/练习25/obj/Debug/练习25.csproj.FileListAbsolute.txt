@@ -1,0 +1,9 @@
+E:\myproject\my-.net-project\第十七天\练习25\bin\Debug\练习25.exe.config
+E:\myproject\my-.net-project\第十七天\练习25\bin\Debug\练习25.exe
+E:\myproject\my-.net-project\第十七天\练习25\bin\Debug\练习25.pdb
+E:\myproject\my-.net-project\第十七天\练习25\obj\Debug\练习25.csprojResolveAssemblyReference.cache
+E:\myproject\my-.net-project\第十七天\练习25\obj\Debug\练习25.Form1.resources
+E:\myproject\my-.net-project\第十七天\练习25\obj\Debug\练习25.Properties.Resources.resources
+E:\myproject\my-.net-project\第十七天\练习25\obj\Debug\练习25.csproj.GenerateResource.Cache
+E:\myproject\my-.net-project\第十七天\练习25\obj\Debug\练习25.exe
+E:\myproject\my-.net-project\第十七天\练习25\obj\Debug\练习25.pdb

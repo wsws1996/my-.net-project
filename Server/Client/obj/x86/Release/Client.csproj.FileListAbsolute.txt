@@ -1,0 +1,7 @@
+E:\myproject\my-.net-project\Server\Client\bin\Release\Client.exe
+E:\myproject\my-.net-project\Server\Client\bin\Release\Client.pdb
+E:\myproject\my-.net-project\Server\Client\obj\x86\Release\Client.Form1.resources
+E:\myproject\my-.net-project\Server\Client\obj\x86\Release\Client.Properties.Resources.resources
+E:\myproject\my-.net-project\Server\Client\obj\x86\Release\Client.csproj.GenerateResource.Cache
+E:\myproject\my-.net-project\Server\Client\obj\x86\Release\Client.exe
+E:\myproject\my-.net-project\Server\Client\obj\x86\Release\Client.pdb

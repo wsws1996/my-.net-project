@@ -1,0 +1,5 @@
+E:\myproject\my-.net-project\第十七天\练习10-14\bin\Debug\练习10-14.exe.config
+E:\myproject\my-.net-project\第十七天\练习10-14\bin\Debug\练习10-14.exe
+E:\myproject\my-.net-project\第十七天\练习10-14\bin\Debug\练习10-14.pdb
+E:\myproject\my-.net-project\第十七天\练习10-14\obj\Debug\练习10-14.exe
+E:\myproject\my-.net-project\第十七天\练习10-14\obj\Debug\练习10-14.pdb

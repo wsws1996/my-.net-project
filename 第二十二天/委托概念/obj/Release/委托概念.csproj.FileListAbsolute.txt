@@ -1,0 +1,6 @@
+E:\myproject\my-.net-project\第二十二天\委托概念\bin\Release\委托概念.exe.config
+E:\myproject\my-.net-project\第二十二天\委托概念\bin\Release\委托概念.exe
+E:\myproject\my-.net-project\第二十二天\委托概念\bin\Release\委托概念.pdb
+E:\myproject\my-.net-project\第二十二天\委托概念\obj\Release\委托概念.csprojResolveAssemblyReference.cache
+E:\myproject\my-.net-project\第二十二天\委托概念\obj\Release\委托概念.exe
+E:\myproject\my-.net-project\第二十二天\委托概念\obj\Release\委托概念.pdb
