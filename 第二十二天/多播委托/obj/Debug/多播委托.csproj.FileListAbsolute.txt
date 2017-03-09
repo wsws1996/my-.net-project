@@ -3,3 +3,4 @@ E:\myproject\my-.net-project\第二十二天\多播委托\bin\Debug\多播委托
 E:\myproject\my-.net-project\第二十二天\多播委托\bin\Debug\多播委托.pdb
 E:\myproject\my-.net-project\第二十二天\多播委托\obj\Debug\多播委托.exe
 E:\myproject\my-.net-project\第二十二天\多播委托\obj\Debug\多播委托.pdb
+E:\myproject\my-.net-project\第二十二天\多播委托\obj\Debug\多播委托.csprojResolveAssemblyReference.cache
